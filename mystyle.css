@@ -1,0 +1,56 @@
+/* Farbpaletten
+https://coolors.co/palette/264653-2a9d8f-e9c46a-f4a261-e76f51
+#264653
+#2A9D8F
+#E9C46A
+#F4A261
+#E76F51
+
+https://coolors.co/palette/606c38-283618-fefae0-dda15e-bc6c25
+#606C38
+#283618
+#FEFAE0
+#DDA15E
+#BC6C25
+*/
+head{
+	
+}
+
+body {
+	background-color: #fff2ea;
+	color: #973363;
+	font-family: Bahnschrift;
+	font-size: 30px;
+	padding-left: 40px;
+
+
+}
+
+p{
+	
+}
+
+p1{
+	color: #ee7d2e;
+}
+
+p2{
+	font-family: IMPACT;
+	color: #000000;
+	font-size: 60px;
+	text-align: center;
+}
+
+p3{
+	color: #ee7d2e;
+}
+
+p4{
+	color: #ee7d2e;
+}
+
+p10{
+	color: #000000;
+	font-size: 15px;
+}
